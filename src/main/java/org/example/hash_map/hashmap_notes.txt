@@ -1,0 +1,13 @@
+---------------
+HashMap
+---------------
+
+- A hashmap is a dictionary/object of key:value pairs.
+- It is unorder list
+- Use a hashmap when you need to track relationship between two items.
+EX-
+{
+    billy:12334,
+    john:989089,
+    billy: 32434
+}
